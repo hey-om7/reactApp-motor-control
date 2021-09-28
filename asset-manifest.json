@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactApp-motor-control/static/css/main.044dd914.chunk.css",
-    "main.js": "/reactApp-motor-control/static/js/main.a7f2def8.chunk.js",
-    "main.js.map": "/reactApp-motor-control/static/js/main.a7f2def8.chunk.js.map",
+    "main.js": "/reactApp-motor-control/static/js/main.128b809c.chunk.js",
+    "main.js.map": "/reactApp-motor-control/static/js/main.128b809c.chunk.js.map",
     "runtime-main.js": "/reactApp-motor-control/static/js/runtime-main.d9ed1dd8.js",
     "runtime-main.js.map": "/reactApp-motor-control/static/js/runtime-main.d9ed1dd8.js.map",
     "static/js/2.aa33f749.chunk.js": "/reactApp-motor-control/static/js/2.aa33f749.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d9ed1dd8.js",
     "static/js/2.aa33f749.chunk.js",
     "static/css/main.044dd914.chunk.css",
-    "static/js/main.a7f2def8.chunk.js"
+    "static/js/main.128b809c.chunk.js"
   ]
 }
