@@ -32,7 +32,9 @@ class MyBtn extends React.Component {
     }
     render() {
         return <div>
-            <img onClick={() => { this.btnClicked() }} className={this.loadStuff} src={this.state.imgUrl} alt="alla" />
+            <img style={{
+                marginTop: window.innerHeight > window.innerWidth ? window.innerHeight * 0.3 : window.innerHeight * 0.2, maxHeight: window.innerHeight > window.innerWidth ? window.innerHeight * 0.35 : window.innerHeight * 0.5
+            }} onClick={() => { this.btnClicked() }} className={this.loadStuff} src={this.state.imgUrl} alt="alla" />
         </div>;
     }
 }
